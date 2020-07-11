@@ -11,3 +11,5 @@ My name is Mauricio and I'm cloud engineer
  - Red Hatter <3
  - 💙 In love with Openshift/Kubernetes
  - 🌱 Currently working on [Kogito](https://kogito.kie.org/) at Red Hat
+
+This is my blog: http://mlab.run
