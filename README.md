@@ -11,7 +11,7 @@ My name is Mauricio and I'm Cloud Engineer. I'm from Brazil and currently workin
  - Red Hatter <3
  - 💙 In love with Openshift/Kubernetes
 
-This is my blog: http://mlab.run
+This is my blog: http://cognition.sh
 
 ## &#x1f4c8; GitHub Stats
 
