@@ -17,4 +17,5 @@ This is my blog: http://cognition.sh
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=msmagnanijr&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=msmagnanijr&theme=dark&hide_border=true" width = 400>
+  <img src=  "https://github-readme-stats.vercel.app/api/top-langs/?username=msmagnanijr&hide=php&theme=tokyonight" width = 400>
 </p>
