@@ -11,8 +11,6 @@ My name is Mauricio and I'm Cloud Engineer. I'm from Brazil and currently workin
  - Red Hatter <3
  - 💙 In love with Openshift/Kubernetes
 
-This is my blog: http://cognition.sh
-
 ---
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=msmagnanijr&show_icons=true&theme=bear" width = 400>
