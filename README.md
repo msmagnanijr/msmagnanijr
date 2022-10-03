@@ -6,9 +6,8 @@
 
 ### Hey! 👋 Welcome to my profile
 
-My name is Mauricio and I'm Cloud Engineer. I'm from Brazil and currently working at Red Hat.
+My name is Mauricio and I'm Cloud Engineer. I'm from Brazil.
 
- - Red Hatter <3
  - 💙 In love with Openshift/Kubernetes
 
 ---
